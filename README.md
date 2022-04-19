@@ -2,7 +2,7 @@
 A simple Wordle helper.  
 Product of a random 30-minute coding challenge I decided to do.
 
-It uses regex to handle pretty much everything.
+It uses regex to handle pretty much everything. Requires [english-words](https://pypi.org/project/english-words/) library.
 
 # Usage
 
